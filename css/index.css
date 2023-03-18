@@ -293,7 +293,7 @@ a {
   }
 
   .header .container .logo {
-    width: 50px;
+    width: 200px;
   }
 
   .navlinks li a {
@@ -306,6 +306,10 @@ a {
     width: 350px;
   }
 
+    .header .container .logo {
+    width: 200px;
+  }
+  
   .linkshape {
     position: relative;
   }
