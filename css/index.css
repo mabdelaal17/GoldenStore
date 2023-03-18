@@ -1109,7 +1109,7 @@ img.gicon {
 .accounts::before {
   content: url(https://i.imgur.com/itFlM55.png);
   position: absolute;
-  left: 70%;
+  right: 0px;
   top: 800px;
   opacity: 0.1;
   transform: rotate(-10deg) translate(-50%, -50%);
